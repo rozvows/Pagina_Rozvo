@@ -30,5 +30,5 @@ if (!isset($_REQUEST['c'])) {
 }
 
 /*
-Comentario para ejemplo de git branch
+Comentario para ejemplo de git Interfaz
 */
