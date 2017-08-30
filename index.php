@@ -28,3 +28,7 @@ if (!isset($_REQUEST['c'])) {
     //LLamada al metodo
     call_user_func(array($controlador, $accion));
 }
+
+/*
+Comentario para ejemplo de git branch
+*/
