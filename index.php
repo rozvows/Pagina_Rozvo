@@ -32,3 +32,7 @@ if (!isset($_REQUEST['c'])) {
 /*
 Comentario para ejemplo de git Interfaz
 */
+
+/*
+Comentario para ejemplo de github
+*/
