@@ -4,6 +4,11 @@ require_once './Modelo/db/Conexion.php';
 
 $controlador = 'Alumno';
 
+
+/*
+Comentario para ejemplo de git
+*/
+
 //Opener informacion del URL
 if (!isset($_REQUEST['c'])) {
     require_once "Controlador/$controllerControlador.php";
